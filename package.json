@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
-    "start": "node .output/server/index.mjs"
+    "start": "node .output/server/index.mjs",
+    "generate": "nuxi generate",
+    "deploy": "gh-pages -d .output/public"
   },
   "dependencies": {
     "nuxt": "^3.8.0"

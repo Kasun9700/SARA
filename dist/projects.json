@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "title": "Modern Kitchen Remodel",
+    "categories": ["Kitchen"],
+    "src": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?w=1200&q=80&auto=format&fit=crop"
+  },
+  {
+    "id": "p2",
+    "title": "Cozy Living Room",
+    "categories": ["Living"],
+    "src": "https://images.unsplash.com/photo-1493666438817-866a91353ca9?w=1200&q=80&auto=format&fit=crop"
+  },
+  {
+    "id": "p3",
+    "title": "Minimal Bedroom",
+    "categories": ["Bedroom"],
+    "src": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=1200&q=80&auto=format&fit=crop"
+  },
+  {
+    "id": "p4",
+    "title": "Front Exterior Upgrade",
+    "categories": ["Exterior"],
+    "src": "https://images.unsplash.com/photo-1505692794403-5c6f6f3c6f8f?w=1200&q=80&auto=format&fit=crop"
+  }
+]
