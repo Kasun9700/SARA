@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   ssr: false,
   css: ['~/assets/css/global.css'],
   app: {
-    baseURL: '/SARA/',
+    baseURL: '/',
     head: {
       title: 'SARA Dream Homes Design',
       meta: [
